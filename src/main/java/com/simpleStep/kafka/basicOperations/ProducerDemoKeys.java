@@ -1,4 +1,4 @@
-package com.simpleStep.kafka.tutorial1;
+package com.simpleStep.kafka.basicOperations;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
