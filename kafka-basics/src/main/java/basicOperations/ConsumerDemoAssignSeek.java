@@ -1,4 +1,4 @@
-package com.simpleStep.kafka.basicOperations;
+package basicOperations;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
